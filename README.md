@@ -1,4 +1,5 @@
-# Code for my blog post - [How to build your own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.hhddn3s2m)
+# Alert the Cop App
+## It works along the similar lines of Uber for X
 
 ### How to install:
 
